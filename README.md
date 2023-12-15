@@ -1,2 +1,2 @@
 # semaforos
- Problema de uso de recursos mediante semáforos en Java
+ Programa en Java de uso de recursos mediante semáforos
